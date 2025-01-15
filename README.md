@@ -11,7 +11,7 @@ This is a simple command line game written in Rust. The program generates a rand
 ## Prerequisites
 * Install [Rust](https://www.rust-lang.org/)
 * Clone the repo
-* cd guessing_game
+* cd guessing_game/src
 
 ## Run
 * cd run
