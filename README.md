@@ -17,3 +17,4 @@ This is a simple command line game written in Rust. The program generates a rand
 * cd run
 
 ## Screenshots
+![AltText](https://github.com/BebeGene/rust_guessing_game/blob/master/Screenshots/GuessingResults.png)
