@@ -14,7 +14,7 @@ This is a simple command line game written in Rust. The program generates a rand
 * cd guessing_game/src
 
 ## Run
-* cd run
+* cargo run
 
 ## Screenshots
 ![AltText](https://github.com/BebeGene/rust_guessing_game/blob/master/Screenshots/GuessingResults.png)
